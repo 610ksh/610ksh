@@ -1,6 +1,6 @@
 ###  👋 Hi! Welcome to my Github profile!
 
-#### 개인 블로그 : https://blog.naver.com/610ksh
+### 개인 블로그 : https://blog.naver.com/610ksh
 
 #### 평소 개발하며 공부했던 내용을 블로그와 깃허브에 올리고 있습니다.
 #### 1 일 1 커밋을 목표로 매일 개발하고 있습니다. 
