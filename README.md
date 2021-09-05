@@ -15,6 +15,19 @@
 - Algorithm (for coding test)
 - Data structure
 ---
+🔭 I’m currently working on ...
+- Unreal game team project (REVISION)
+- Unity game team project (어사수의록, DreamWeaver)
+- Unreal personal project (UnrealProject)
+- C# Game Server
+- C# Game Algorithm
+- OpenGL_홍정모
+- Data structure
+- Algorithm
+- FightGame (Open source project about libGDX)
+- DirectX 9 (DX3D)
+- Unity toy projects (UnityRun_3D, Flappy-bird-2D_Unity)
+---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F610ksh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
