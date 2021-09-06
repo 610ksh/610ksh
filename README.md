@@ -10,15 +10,19 @@
 - DirectX 12 / https://github.com/610ksh/DirectX12
 - C++ server (IOCP Server) / https://github.com/610ksh/Cpp_GameServer
 - Modern C++ / https://blog.naver.com/610ksh/222292642355
-- Unreal Engine / https://github.com/610ksh/UnrealProject_forked
+- Unreal Engine (for portfolio) / https://github.com/610ksh/Portfolio_UE4
 - OS / https://blog.naver.com/610ksh/221235936359
 - Algorithm (for coding test) / https://github.com/610ksh/Algorithm
 - Data structure / https://github.com/610ksh/DataStructure
 ---
 ### 🔭 I’m currently working on ...
+#### < Team >
 - Unreal game team project (REVISION) / https://github.com/610ksh/REVISION_forked
 - Unity game team project (어사수의록) / https://github.com/610ksh/EscapeRoom
 - Unity game team project (DreamWeaver) / https://github.com/610ksh/Dreamweaver
+
+#### < Personal >
+- Unreal toy projects (UnrealProject) / https://github.com/610ksh/UnrealProject_forked
 - C# Game Server / https://github.com/610ksh/CSharp_GameServer
 - C# Game Algorithm / https://github.com/610ksh/CSharp_GameAlgorithm
 - DirectX 9 (DX3D) / https://github.com/610ksh/Direct3D_9
