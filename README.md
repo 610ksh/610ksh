@@ -22,7 +22,7 @@
 - Unity game team project (DreamWeaver) / https://github.com/610ksh/Dreamweaver
 
 #### < Personal >
-- Unreal toy projects (UnrealProject) / https://github.com/610ksh/UnrealProject_forked
+- Unreal toy project (UnrealProject) / https://github.com/610ksh/UnrealProject_forked
 - C# Game Server / https://github.com/610ksh/CSharp_GameServer
 - C# Game Algorithm / https://github.com/610ksh/CSharp_GameAlgorithm
 - DirectX 9 (DX3D) / https://github.com/610ksh/Direct3D_9
@@ -30,8 +30,8 @@
 - Data structure / https://github.com/610ksh/DataStructure
 - Algorithm / https://github.com/610ksh/Algorithm
 - FightGame (Open source project about libGDX) / https://github.com/610ksh/OSS_Project_FightGame
-- Unity toy projects (UnityRun_3D) / https://github.com/610ksh/UnityRun_3D
-- Unity toy projects (Flappy-bird-2D_Unity) / https://github.com/610ksh/Flappy-bird-2D_Unity
+- Unity toy project (UnityRun_3D) / https://github.com/610ksh/UnityRun_3D
+- Unity toy project (Flappy-bird-2D_Unity) / https://github.com/610ksh/Flappy-bird-2D_Unity
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F610ksh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
