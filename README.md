@@ -26,7 +26,7 @@
 - C# Game Server / https://github.com/610ksh/CSharp_GameServer
 - C# Game Algorithm / https://github.com/610ksh/CSharp_GameAlgorithm
 - DirectX 9 (DX3D) / https://github.com/610ksh/Direct3D_9
-- OpenGL_홍정모 / https://github.com/610ksh/OpenGL_HongGameProject
+- OpenGL_Hong / https://github.com/610ksh/OpenGL_HongGameProject
 - Data structure / https://github.com/610ksh/DataStructure
 - Algorithm / https://github.com/610ksh/Algorithm
 - FightGame (Open source project about libGDX) / https://github.com/610ksh/OSS_Project_FightGame
