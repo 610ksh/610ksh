@@ -15,7 +15,7 @@
 - Algorithm (for coding test) / https://github.com/610ksh/Algorithm
 - Data structure / https://github.com/610ksh/DataStructure
 ---
-### 🔭 I’m currently working on ...
+### 🔭 What I have been working on ...
 #### < Team >
 - Unreal game team project (REVISION) / https://github.com/610ksh/REVISION_forked
 - Unity game team project (어사수의록) / https://github.com/610ksh/EscapeRoom
