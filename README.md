@@ -18,7 +18,7 @@
 ### 🔭 What I have been working on ...
 #### < Team >
 - Unreal game team project (REVISION) / https://github.com/610ksh/REVISION_forked
-- Unity game team project (어사수의록) / https://github.com/610ksh/EscapeRoom
+- Unity game team project (어사수의록, 저작권상 private) / https://github.com/610ksh/EscapeRoom
 - Unity game team project (DreamWeaver) / https://github.com/610ksh/Dreamweaver
 
 #### < Personal >
