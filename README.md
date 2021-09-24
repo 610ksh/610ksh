@@ -19,7 +19,7 @@
 #### < Team >
 - Unreal game team project (REVISION) / https://github.com/610ksh/REVISION_forked
 - Unity game team project (어사수의록) / 저작권상 공개할 수 없습니다.
-- Unity game team project (DreamWeaver) / https://github.com/610ksh/Dreamweaver (코드 일부 공개)
+- Unity game team project (DreamWeaver) / https://github.com/610ksh/Dreamweaver (저작권有, 코드 일부만 공개)
 
 #### < Personal >
 - Unreal toy project (UnrealProject) / https://github.com/610ksh/UnrealProject_forked
