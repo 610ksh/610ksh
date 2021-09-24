@@ -8,7 +8,7 @@
 ---
 ### 🌱 I’m currently learning ...
 - DirectX 12 / https://github.com/610ksh/DirectX12
-- C++ server (IOCP Server) / https://github.com/610ksh/Cpp_GameServer
+- C++ Server (IOCP Server) / https://github.com/610ksh/Cpp_GameServer
 - Modern C++ / https://blog.naver.com/610ksh/222292642355
 - Unreal Engine (for portfolio) / https://github.com/610ksh/Portfolio_UE4
 - OS / https://blog.naver.com/610ksh/221235936359
