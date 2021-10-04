@@ -29,7 +29,7 @@
 - OpenGL_Hong / https://github.com/610ksh/OpenGL_HongGameProject
 - Data structure / https://github.com/610ksh/DataStructure
 - Algorithm / https://github.com/610ksh/Algorithm
-- FightGame (Open source project about libGDX) / https://github.com/610ksh/OSS_Project_FightGame
+- FightGame (Open source project of libGDX) / https://github.com/610ksh/OSS_Project_FightGame
 - Unity toy project (UnityRun_3D) / https://github.com/610ksh/UnityRun_3D
 - Unity toy project (Flappy-bird-2D_Unity) / https://github.com/610ksh/Flappy-bird-2D_Unity
 ---
