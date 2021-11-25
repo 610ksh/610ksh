@@ -3,7 +3,7 @@
 ### 개인 블로그 : https://blog.naver.com/610ksh
 
 - #### 평소 개발하며 공부했던 내용을 블로그와 깃허브에 올리고 있습니다.
-- #### 2021. 11월부터 어떤걸 공부해오고 있는지 전체적으로 보고 싶다면 🤔 : https://github.com/610ksh/StudyBoard
+- #### 2021. 12월부터 어떤걸 공부해오고 있는지 전체적으로 보고 싶다면 🤔 : https://github.com/610ksh/StudyBoard
 
 
 ---
