@@ -1,4 +1,8 @@
 ##  👋 Hi! Welcome to my Github profile!
+
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=610ksh">
+
+
 <!--
 ### 개인 블로그 : https://blog.naver.com/610ksh
 
@@ -39,6 +43,8 @@
 -->
 <!--
 **610ksh/610ksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=610ksh" height="165">
 
 Here are some ideas to get you started:
 
