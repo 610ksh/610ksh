@@ -1,7 +1,7 @@
 ##  👋 Hi! Welcome to my Github profile!
 
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=610ksh">
-
+<img src="http://mazandi.herokuapp.com/api?handle=610ksh&theme=warm"/>
 
 <!--
 ### 개인 블로그 : https://blog.naver.com/610ksh
