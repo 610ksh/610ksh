@@ -3,6 +3,12 @@
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=610ksh">
 <img src="http://mazandi.herokuapp.com/api?handle=610ksh&theme=warm"/>
 
+[![610ksh's github stats](https://github-readme-stats.vercel.app/api?username=610ksh&show_icons=true&theme=dracula)](https://github.com/610ksh)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=610ksh&layout=compact&langs_count=8&theme=dracula)](https://github.com/610ksh)
+
+![610ksh's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=610ksh)
+
 <!--
 ### 개인 블로그 : https://blog.naver.com/610ksh
 
