@@ -3,13 +3,8 @@
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=610ksh">
 <img src="http://mazandi.herokuapp.com/api?handle=610ksh&theme=warm"/>
 
-[![610ksh's github stats](https://github-readme-stats.vercel.app/api?username=610ksh&show_icons=true&theme=dracula)](https://github.com/610ksh)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=610ksh&layout=compact&langs_count=8&theme=dracula)](https://github.com/610ksh)
 
-![610ksh's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=610ksh)
-
-<!--
 ### 개인 블로그 : https://blog.naver.com/610ksh
 
 - #### 평소 개발하며 공부했던 내용을 블로그와 깃허브에 올리고 있습니다.
@@ -46,7 +41,18 @@
 - Unity toy project (Flappy-bird-2D_Unity) / https://github.com/610ksh/Flappy-bird-2D_Unity
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F610ksh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+[![610ksh's github stats](https://github-readme-stats.vercel.app/api?username=610ksh&show_icons=true&theme=dracula)](https://github.com/610ksh)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=610ksh&layout=compact&langs_count=8&theme=dracula)](https://github.com/610ksh)
+
+![610ksh's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=610ksh)
+
+<!--
 -->
+
+
 <!--
 **610ksh/610ksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
