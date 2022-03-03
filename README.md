@@ -1,8 +1,14 @@
-##  👋 Hi! Welcome to my Github profile!
-
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=610ksh">
-<img src="http://mazandi.herokuapp.com/api?handle=610ksh&theme=warm"/>
-
+<br>
+<h2 align="center">📍 👋 Hi! Welcome to my Github profile! 📍</h2>
+<p align="center">
+  <a href="https://solved.ac/profile/610ksh">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=610ksh">
+  </a>
+    <a href="https://solved.ac/profile/610ksh">
+  <img src="http://mazandi.herokuapp.com/api?handle=610ksh&theme=warm"/>
+   </a>
+</p>
+<br>
 
 
 ### 😄 개인 블로그 : https://blog.naver.com/610ksh
