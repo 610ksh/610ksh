@@ -48,19 +48,27 @@
 - Unity toy project (UnityRun_3D) / https://github.com/610ksh/UnityRun_3D
 - Unity toy project (Flappy-bird-2D_Unity) / https://github.com/610ksh/Flappy-bird-2D_Unity
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F610ksh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
+<h2 align="center">📍 Cards-Github 📍</h2>
+<p align="center">
+    <a href="https://github.com/610ksh">
+        <img src="https://github-readme-stats.vercel.app/api?username=610ksh&theme=radical"/>
+    </a>
+    <a href="https://github.com/610ksh">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=610ksh&layout=compact&theme=radical"/>
+    </a>
+   <a href="https://github.com/610ksh">
+        <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=610ksh"/>
+</p>
+<br>
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F610ksh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)"/>
+</p>
 
-
-[![610ksh's github stats](https://github-readme-stats.vercel.app/api?username=610ksh&show_icons=true&theme=dracula)](https://github.com/610ksh)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=610ksh&layout=compact&langs_count=8&theme=dracula)](https://github.com/610ksh)
+<!--
 
 ![610ksh's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=610ksh)
 
-
-
-
-<!--
 **610ksh/610ksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=610ksh" height="165">
