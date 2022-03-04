@@ -1,5 +1,5 @@
 <br>
-<h2 align="center">📍 👋 Hi! Welcome to my Github profile! 📍</h2>
+<h2 align="center">👋 Hi! Welcome to my Github profile!</h2>
 <p align="center">
   <a href="https://solved.ac/profile/610ksh">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=610ksh">
