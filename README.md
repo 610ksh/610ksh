@@ -13,11 +13,12 @@
 <a href="https://opgc.me/#/users/610ksh" target="_blank"><img src="https://api.opgc.me/githubs/users/610ksh/tag/?theme=basic" /></a>
 </p>
 
+<!--
 ### 😄 개인 블로그 : https://blog.naver.com/610ksh
 
 - #### 평소 개발하며 공부했던 내용을 (네이버)블로그와 깃허브에 올리고 있습니다.
 
-<!--
+
 - #### 2021. 12월부터 어떤걸 공부해오고 있는지 전체적으로 보고 싶다면 🤔 : https://github.com/610ksh/StudyBoard
 -->
 
