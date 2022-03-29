@@ -1,3 +1,9 @@
+<div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,12,19,21,22,24,30&height=150&section=header&text=SungHoon&fontAlignY=30&fontSize=55)
+
+</div>
+  
 <br>
 <h2 align="center">👋 Hi! Welcome to my Github profile!</h2>
 <p align="center">
