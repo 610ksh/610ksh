@@ -3,28 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,12,19,21,22,24,30&height=150&section=header&text=SungHoon&fontAlignY=30&fontSize=55)
 
 </div>
-  
-<br>
-<h2 align="center">👋 Hi! Welcome to my Github profile!</h2>
-<p align="center">
-  <a href="https://solved.ac/profile/610ksh">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=610ksh">
-  </a>
-    <a href="https://solved.ac/profile/610ksh">
-  <img src="http://mazandi.herokuapp.com/api?handle=610ksh&theme=warm"/>
-   </a>
-</p>
-<br>
-<p align="center">
-<a href="https://opgc.me/#/users/610ksh" target="_blank"><img src="https://api.opgc.me/githubs/users/610ksh/tag/?theme=basic" /></a>
-</p>
 
-<!--
+
 ### 😄 개인 블로그 : https://blog.naver.com/610ksh
 
 - #### 평소 개발하며 공부했던 내용을 (네이버)블로그와 깃허브에 올리고 있습니다.
 
-
+<!--
 - #### 2021. 12월부터 어떤걸 공부해오고 있는지 전체적으로 보고 싶다면 🤔 : https://github.com/610ksh/StudyBoard
 -->
 
@@ -57,6 +42,23 @@
 - Unity toy project (UnityRun_3D) / https://github.com/610ksh/UnityRun_3D
 - Unity toy project (Flappy-bird-2D_Unity) / https://github.com/610ksh/Flappy-bird-2D_Unity
 ---
+  
+<br>
+<h2 align="center">👋 Hi! Welcome to my Github profile!</h2>
+<p align="center">
+  <a href="https://solved.ac/profile/610ksh">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=610ksh">
+  </a>
+    <a href="https://solved.ac/profile/610ksh">
+  <img src="http://mazandi.herokuapp.com/api?handle=610ksh&theme=warm"/>
+   </a>
+</p>
+<br>
+<p align="center">
+<a href="https://opgc.me/#/users/610ksh" target="_blank"><img src="https://api.opgc.me/githubs/users/610ksh/tag/?theme=basic" /></a>
+</p>
+
+
 <br>
 <h2 align="center">📍 Cards-Github 📍</h2>
 <p align="center">
@@ -73,6 +75,12 @@
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F610ksh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)"/>
 </p>
+
+
+
+
+
+
 
 <!--
 
