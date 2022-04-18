@@ -23,34 +23,45 @@
 -->
 
 ---
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently working on ...
 - Unreal Engine (for portfolio) / https://github.com/610ksh/Portfolio_UE4
+- Unreal Engine (making OpenWorld) / https://github.com/610ksh/OpenWorld_UE4
 - Algorithm (for coding test) / https://github.com/610ksh/Algorithm
 
 ---
 ### 🔭 What I have been working on ...
-#### < Team >
+### < Team >
 - Unreal game team project (REVISION) / https://github.com/610ksh/REVISION_forked
 - Unity game team project (어사수의록) / 저작권상 공개할 수 없습니다.
 - Unity game team project (DreamWeaver) / (저작권有, 코드 극히 일부만 공개)
 
-#### < Personal >
+### < Personal >
+##### 1. Unreal ✈
 - Portfolio_UE4 (The Last RPG) / https://github.com/610ksh/Portfolio_UE4
+- OpenWorld_UE4 (making OpenWorld) / https://github.com/610ksh/OpenWorld_UE4
+- Unreal toy project (UnrealProject) / https://github.com/610ksh/UnrealProject_forked
+
+##### 2. Graphics ✈
 - DirectX 12 / https://github.com/610ksh/DirectX12
+- DirectX 9 (DX3D) / https://github.com/610ksh/Direct3D_9
+- OpenGL / https://github.com/610ksh/OpenGL_HongGameProject
+
+##### 3. CS ✈
 - Data structure / https://github.com/610ksh/DataStructure
 - OS / https://blog.naver.com/610ksh/221235936359
 - Modern C++ / https://blog.naver.com/610ksh/222292642355
-- C++ Server (IOCP Server) / https://github.com/610ksh/Cpp_GameServer
-- Unreal toy project (UnrealProject) / https://github.com/610ksh/UnrealProject_forked
-- C# Game Server / https://github.com/610ksh/CSharp_GameServer
-- C# Game Algorithm / https://github.com/610ksh/CSharp_GameAlgorithm
-- DirectX 9 (DX3D) / https://github.com/610ksh/Direct3D_9
-- OpenGL / https://github.com/610ksh/OpenGL_HongGameProject
-- Data structure / https://github.com/610ksh/DataStructure
 - Algorithm / https://github.com/610ksh/Algorithm
-- FightGame (Open source project of libGDX) / https://github.com/610ksh/OSS_Project_FightGame
+- C# Game Algorithm / https://github.com/610ksh/CSharp_GameAlgorithm
+
+##### 4. Server ✈
+- C++ Server (IOCP Server) / https://github.com/610ksh/Cpp_GameServer
+- C# Game Server / https://github.com/610ksh/CSharp_GameServer
+
+##### 5. Unity & etc ✈
 - Unity toy project (UnityRun_3D) / https://github.com/610ksh/UnityRun_3D
 - Unity toy project (Flappy-bird-2D_Unity) / https://github.com/610ksh/Flappy-bird-2D_Unity
+- FightGame (Open source project of libGDX) / https://github.com/610ksh/OSS_Project_FightGame
+
 ---
   
 
