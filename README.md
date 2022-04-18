@@ -36,28 +36,28 @@
 - Unity game team project (DreamWeaver) / (저작권有, 코드 극히 일부만 공개)
 
 ### < Personal >
-##### 1. Unreal ✈
+#### 1. Unreal ⭐
 - Portfolio_UE4 (The Last RPG) / https://github.com/610ksh/Portfolio_UE4
 - OpenWorld_UE4 (making OpenWorld) / https://github.com/610ksh/OpenWorld_UE4
 - Unreal toy project (UnrealProject) / https://github.com/610ksh/UnrealProject_forked
 
-##### 2. Graphics ✈
+#### 2. Graphics 🚗
 - DirectX 12 / https://github.com/610ksh/DirectX12
 - DirectX 9 (DX3D) / https://github.com/610ksh/Direct3D_9
 - OpenGL / https://github.com/610ksh/OpenGL_HongGameProject
 
-##### 3. CS ✈
+#### 3. CS ✈
 - Data structure / https://github.com/610ksh/DataStructure
 - OS / https://blog.naver.com/610ksh/221235936359
 - Modern C++ / https://blog.naver.com/610ksh/222292642355
 - Algorithm / https://github.com/610ksh/Algorithm
 - C# Game Algorithm / https://github.com/610ksh/CSharp_GameAlgorithm
 
-##### 4. Server ✈
+#### 4. Server 🍒
 - C++ Server (IOCP Server) / https://github.com/610ksh/Cpp_GameServer
 - C# Game Server / https://github.com/610ksh/CSharp_GameServer
 
-##### 5. Unity & etc ✈
+#### 5. Unity & etc 🌴
 - Unity toy project (UnityRun_3D) / https://github.com/610ksh/UnityRun_3D
 - Unity toy project (Flappy-bird-2D_Unity) / https://github.com/610ksh/Flappy-bird-2D_Unity
 - FightGame (Open source project of libGDX) / https://github.com/610ksh/OSS_Project_FightGame
