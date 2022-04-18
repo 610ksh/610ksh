@@ -30,15 +30,15 @@
 ---
 ### 🔭 What I have been working on ...
 #### < Team >
-- Portfolio_UE4 (The Last RPG) / https://github.com/610ksh/Portfolio_UE4
 - Unreal game team project (REVISION) / https://github.com/610ksh/REVISION_forked
 - Unity game team project (어사수의록) / 저작권상 공개할 수 없습니다.
 - Unity game team project (DreamWeaver) / (저작권有, 코드 극히 일부만 공개)
 
 #### < Personal >
+- Portfolio_UE4 (The Last RPG) / https://github.com/610ksh/Portfolio_UE4
+- DirectX 12 / https://github.com/610ksh/DirectX12
 - Data structure / https://github.com/610ksh/DataStructure
 - OS / https://blog.naver.com/610ksh/221235936359
-- DirectX 12 / https://github.com/610ksh/DirectX12
 - Modern C++ / https://blog.naver.com/610ksh/222292642355
 - C++ Server (IOCP Server) / https://github.com/610ksh/Cpp_GameServer
 - Unreal toy project (UnrealProject) / https://github.com/610ksh/UnrealProject_forked
