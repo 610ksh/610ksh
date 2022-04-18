@@ -24,13 +24,9 @@
 
 ---
 ### 🌱 I’m currently learning ...
-- DirectX 12 / https://github.com/610ksh/DirectX12
-- C++ Server (IOCP Server) / https://github.com/610ksh/Cpp_GameServer
-- Modern C++ / https://blog.naver.com/610ksh/222292642355
 - Unreal Engine (for portfolio) / https://github.com/610ksh/Portfolio_UE4
-- OS / https://blog.naver.com/610ksh/221235936359
 - Algorithm (for coding test) / https://github.com/610ksh/Algorithm
-- Data structure / https://github.com/610ksh/DataStructure
+
 ---
 ### 🔭 What I have been working on ...
 #### < Team >
@@ -40,6 +36,11 @@
 - Unity game team project (DreamWeaver) / (저작권有, 코드 극히 일부만 공개)
 
 #### < Personal >
+- Data structure / https://github.com/610ksh/DataStructure
+- OS / https://blog.naver.com/610ksh/221235936359
+- DirectX 12 / https://github.com/610ksh/DirectX12
+- Modern C++ / https://blog.naver.com/610ksh/222292642355
+- C++ Server (IOCP Server) / https://github.com/610ksh/Cpp_GameServer
 - Unreal toy project (UnrealProject) / https://github.com/610ksh/UnrealProject_forked
 - C# Game Server / https://github.com/610ksh/CSharp_GameServer
 - C# Game Algorithm / https://github.com/610ksh/CSharp_GameAlgorithm
