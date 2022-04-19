@@ -26,6 +26,7 @@
 ### 🌱 I’m currently working on ...
 - Unreal Engine (for portfolio) / https://github.com/610ksh/Portfolio_UE4
 - Unreal Engine (making OpenWorld) / https://github.com/610ksh/OpenWorld_UE4
+- Unreal Engine (training BP) / https://github.com/610ksh/UE4_BP_Training
 - Algorithm (for coding test) / https://github.com/610ksh/Algorithm
 
 ---
@@ -39,6 +40,7 @@
 #### 1. Unreal ⭐
 - Portfolio_UE4 (The Last RPG) / https://github.com/610ksh/Portfolio_UE4
 - OpenWorld_UE4 (making OpenWorld) / https://github.com/610ksh/OpenWorld_UE4
+- UE4_TraningBP / https://github.com/610ksh/UE4_BP_Training
 - Unreal toy project (UnrealProject) / https://github.com/610ksh/UnrealProject_forked
 
 #### 2. Graphics 🚗
