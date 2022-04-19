@@ -26,7 +26,7 @@
 ### 🌱 I’m currently working on ...
 - Unreal Engine (for portfolio) / https://github.com/610ksh/Portfolio_UE4
 - Unreal Engine (making OpenWorld) / https://github.com/610ksh/OpenWorld_UE4
-- Unreal Engine (training BP) / https://github.com/610ksh/UE4_BP_Training
+- Unreal Engine (training BP) / https://github.com/610ksh/UE4_TrainingBP
 - Algorithm (for coding test) / https://github.com/610ksh/Algorithm
 
 ---
