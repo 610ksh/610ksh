@@ -24,9 +24,9 @@
 
 ---
 ### 🌱 I’m currently working on ...
-- Unreal Engine (for portfolio) / https://github.com/610ksh/Portfolio_UE4
-- Unreal Engine (making OpenWorld) / https://github.com/610ksh/OpenWorld_UE4
-- Unreal Engine (training BP) / https://github.com/610ksh/UE4_TrainingBP
+- Unreal Engine (for portfolio) / https://github.com/610ksh/Portfolio_UE4 (Asset 저작권상 private 변경)
+- Unreal Engine (making OpenWorld) / https://github.com/610ksh/OpenWorld_UE4 (Asset 저작권상 private 변경)
+- Unreal Engine (training BP) / https://github.com/610ksh/UE4_TrainingBP (Asset 저작권상 private 변경)
 - Algorithm (for coding test) / https://github.com/610ksh/Algorithm
 
 ---
@@ -38,9 +38,9 @@
 
 ### < Personal >
 #### 1. Unreal ⭐
-- Portfolio_UE4 (The Last RPG) / https://github.com/610ksh/Portfolio_UE4
-- OpenWorld_UE4 (making OpenWorld) / https://github.com/610ksh/OpenWorld_UE4
-- UE4_TrainingBP / https://github.com/610ksh/UE4_BP_Training
+- Portfolio_UE4 (The Last RPG) / https://github.com/610ksh/Portfolio_UE4 (private)
+- OpenWorld_UE4 (making OpenWorld) / https://github.com/610ksh/OpenWorld_UE4 (private)
+- UE4_TrainingBP / https://github.com/610ksh/UE4_BP_Training (private)
 - Unreal toy project (UnrealProject) / https://github.com/610ksh/UnrealProject_forked
 
 #### 2. Graphics 🚗
