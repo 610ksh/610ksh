@@ -14,7 +14,7 @@
    </a>
 </p>
 
-### 😄 개인 블로그 : https://blog.naver.com/610ksh
+### 😄 개인 블로그 : https://blog.naver.com/610ksh [<img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>](https://blog.naver.com/610ksh)
 
 - #### 평소 개발하며 공부했던 내용을 (네이버)블로그와 깃허브에 올리고 있습니다.
 
