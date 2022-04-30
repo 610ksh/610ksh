@@ -20,13 +20,14 @@
 
 <!--
 - #### 2021. 12월부터 어떤걸 공부해오고 있는지 전체적으로 보고 싶다면 🤔 : https://github.com/610ksh/StudyBoard
+(Asset 저작권상 private 변경)
 -->
 
 ---
 ### 🌱 I’m currently working on ...
-- Unreal Engine (for portfolio) / https://github.com/610ksh/Portfolio_UE4 (Asset 저작권상 private 변경)
-- Unreal Engine (making OpenWorld) / https://github.com/610ksh/OpenWorld_UE4 (Asset 저작권상 private 변경)
-- Unreal Engine (training BP) / https://github.com/610ksh/UE4_TrainingBP (Asset 저작권상 private 변경)
+- Unreal Engine (for portfolio) / https://github.com/610ksh/Portfolio_UE4 
+- Unreal Engine (making OpenWorld) / https://github.com/610ksh/OpenWorld_UE4 
+- Unreal Engine (training BP) / https://github.com/610ksh/UE4_TrainingBP
 - Algorithm (for coding test) / https://github.com/610ksh/Algorithm
 
 ---
