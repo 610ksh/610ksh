@@ -10,6 +10,9 @@
 ### 😄 개인 블로그 : https://blog.naver.com/610ksh [<img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>](https://blog.naver.com/610ksh)
 
 - #### 평소 개발하며 공부했던 내용을 (네이버)블로그와 깃허브에 올리고 있습니다.
+- #### 현재는 언리얼 엔진을 이용한 C++ 게임 제작을 하고 있으며, DirectX에 대해 관심을 가지고 공부하고 있습니다.
+- #### 오픈월드 맵을 제작하기 위한 프로젝트와 블루프린트에 대한 이해도를 높이기 위한 작은 프로젝트를 동시에 진행하고 있습니다.
+- #### 컴퓨터 공학적 소양을 높이기 위해 OS, 자료구조, 알고리즘, 게임서버에 대해서 공부하였습니다.
 
 <!--
 - #### 2021. 12월부터 어떤걸 공부해오고 있는지 전체적으로 보고 싶다면 🤔 : https://github.com/610ksh/StudyBoard
