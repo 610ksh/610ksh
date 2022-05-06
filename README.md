@@ -42,7 +42,8 @@
 
 #### 2. Graphics 🚗
 - DirectX 12 / https://github.com/610ksh/DirectX12
-- DirectX 9 (DX3D) / https://github.com/610ksh/Direct3D_9
+- DirectX 11 / https://github.com/610ksh/DirectX11
+- DirectX 9 / https://github.com/610ksh/Direct3D_9
 - OpenGL / https://github.com/610ksh/OpenGL_HongGameProject
 
 #### 3. CS ✈
