@@ -37,7 +37,7 @@
 #### 1. Unreal ⭐
 - Portfolio_UE4 (The Last RPG) / https://github.com/610ksh/Portfolio_UE4 (private)
 - OpenWorld_UE4 (making OpenWorld) / https://github.com/610ksh/OpenWorld_UE4 (private)
-- UE4_TrainingBP / https://github.com/610ksh/UE4_BP_Training (private)
+- TrainingBP_UE4 / https://github.com/610ksh/TrainingBP_UE4 (private)
 - Unreal toy project (UnrealProject) / https://github.com/610ksh/UnrealProject_forked
 
 #### 2. Graphics 🚗
