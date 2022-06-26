@@ -6,8 +6,9 @@
 <br>
 <h2 align="center">👋 Hi! Welcome to my Github profile!</h2>
 
-
+<!--
 ### 😄 개인 블로그 : https://blog.naver.com/610ksh [<img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>](https://blog.naver.com/610ksh)
+-->
 
 - #### 평소 개발하며 공부했던 내용을 (네이버)블로그와 깃허브에 올리고 있습니다.
 - #### 현재는 언리얼 엔진을 이용한 C++ 게임 제작을 하고 있으며, DirectX에 대해 관심을 가지고 공부하고 있습니다.
