@@ -45,8 +45,8 @@
 - Unreal toy project (UnrealProject) / https://github.com/610ksh/UnrealProject_forked (무료 애셋으로만 구성)
 
 #### 2. Graphics 🚗
-- DirectX 12 / 2022.10월 진행예정 (~~https://github.com/610ksh/DirectX12~~)
-- DirectX 11 / https://github.com/610ksh/DirectX11
+- DirectX 12 / https://github.com/610ksh/DirectX12
+- DirectX 11 / 2022.10월 진행예정 ~~https://github.com/610ksh/DirectX11~~
 - DirectX 9 / https://github.com/610ksh/Direct3D_9
 - OpenGL / https://github.com/610ksh/OpenGL_HongGameProject
 
