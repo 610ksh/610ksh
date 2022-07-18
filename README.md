@@ -9,6 +9,7 @@
 ### 😄 개인 블로그 : https://blog.naver.com/610ksh [<img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>](https://blog.naver.com/610ksh)
 ### ✨ 프로그래머스 이력서 : https://career.programmers.co.kr/pr/148571_1856
 ### ✨ Notion 이력서 : https://610ksh.notion.site/610ksh/b3892b3ffab2458cba3040950e2e5c85
+### 💬 연락처 : 610ksh@naver.com
 <!--
 
 -->
@@ -17,7 +18,6 @@
 - #### 현재는 언리얼 엔진을 이용한 C++ 게임 제작을 하고 있습니다.
 - #### 2022년에는 오픈월드 맵을 제작해보았고, 블루프린트를 통해 언리얼에 대한 기초를 학습한 후, C++ 개발을 진행하고 있습니다.
 - #### 추가적으로 컴퓨터 공학적 소양을 높이기 위해 OS, 자료구조, 알고리즘, 그래픽스(DX)에 대해서 공부하였습니다.
-- 
 
 <!--
 - #### 2021. 12월부터 어떤걸 공부해오고 있는지 전체적으로 보고 싶다면 🤔 : https://github.com/610ksh/StudyBoard
