@@ -6,7 +6,7 @@
 <br>
 <h2 align="center">👋 Hi! Welcome to my Github profile!</h2>
 
-### 😄 개인 블로그 : https://blog.naver.com/610ksh [<img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>](https://blog.naver.com/610ksh)
+### 👨‍💻 개인 블로그 : https://blog.naver.com/610ksh [<img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>](https://blog.naver.com/610ksh)
 ### ✨ 프로그래머스 이력서 : https://career.programmers.co.kr/pr/148571_1856
 ### ✨ Notion 이력서 : https://610ksh.notion.site/610ksh/b3892b3ffab2458cba3040950e2e5c85
 ### 💬 연락처 : 610ksh@naver.com
