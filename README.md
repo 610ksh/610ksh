@@ -6,9 +6,17 @@
 <br>
 <h2 align="center">👋 Hi! Welcome to my Github profile!</h2>
 
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 ### 👨‍💻 개인 블로그 : https://blog.naver.com/610ksh [<img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>](https://blog.naver.com/610ksh)
 ### ✨ 프로그래머스 이력서 : https://career.programmers.co.kr/pr/148571_1856
-### ✨ Notion 이력서 : https://610ksh.notion.site/610ksh/b3892b3ffab2458cba3040950e2e5c85
+### ✨ Notion 이력서 : [<img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>](https://610ksh.notion.site/b3892b3ffab2458cba3040950e2e5c85)
 ### 💬 연락처 : 610ksh@naver.com
 <!--
 
