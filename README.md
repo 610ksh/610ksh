@@ -40,7 +40,7 @@
 ---
 ### 🌱 I’m currently working on ...
 - Unreal Engine (TrainingCpp_UE4) / https://github.com/610ksh/TrainingCpp_UE4
-- Unreal Engine (TrainingBP_UE4) / https://github.com/610ksh/TrainingBP_UE4
+- Unreal Engine (TrainingBP_UE4) / private cuz Asset (~~https://github.com/610ksh/TrainingBP_UE4~~)
 - Algorithm (for coding test) / https://github.com/610ksh/Algorithm
 
 ---
