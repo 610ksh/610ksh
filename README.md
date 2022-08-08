@@ -84,10 +84,6 @@
 ---
   
 
-<br>
-<p align="center">
-<a href="https://opgc.me/#/users/610ksh" target="_blank"><img src="https://api.opgc.me/githubs/users/610ksh/tag/?theme=basic" /></a>
-</p>
 <p align="center">
   <a href="https://solved.ac/profile/610ksh">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=610ksh">
