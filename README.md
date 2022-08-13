@@ -67,7 +67,7 @@
 - Data structure / https://github.com/610ksh/DataStructure
 - OS / https://blog.naver.com/610ksh/221235936359
 
-< Blog >
+#### ✨ Blog ✨
 - Modern C++ / https://blog.naver.com/610ksh/222292642355
 - Algorithm / https://github.com/610ksh/Algorithm
 - C# Game Algorithm / https://github.com/610ksh/CSharp_GameAlgorithm
