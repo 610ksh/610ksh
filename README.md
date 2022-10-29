@@ -103,8 +103,9 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F610ksh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)"/>
 </p>
 
-
-다시시작
+- #### 크래프톤 입사후, 다시 천천히 시작하게 되었습니다.
+- #### 출근 하기전, 퇴근하고 나서 조금씩 진행할 예정입니다.
+- #### 초창기에는 업무와 직접적으로 관계된 내용을 따로 공부할 예정입니다.
 
 <!--
 <br>
